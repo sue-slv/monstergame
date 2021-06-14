@@ -11,5 +11,5 @@ Using Python and some randomness :)
 4. The monster always counterattacks  
 5. The attacks -and the strength- are a bit "random", as some life events  
 6. You can try the healing option to recover some points  
-7. The game ends when the player or the monster reach 0 points  
+7. The game ends when the player or the monster reachs 0 points  
 8. The best players are registered in the winners table 
